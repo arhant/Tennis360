@@ -5,9 +5,9 @@ Project Idea: ATP (Association of Tennis Professionals) and WTA (Women's Tennis 
 
 Below is an example of the data from Miami Open 2018 underway now:
 
-Mid-Match Summary for S. Williams Vs N. Osaka
+  -Mid-Match Summary for S. Williams Vs N. Osaka
 
-Miami Open 2018 – Women’s Singles: First Round
+  -Miami Open 2018 – Women’s Singles: First Round
 
 Records by Roger Federer, Serena Williams and other prominent players are well known and some data analytics (such as Maximum aces in a year) gathered by SAP and IBM are available on the official sites. We would try to provide further insights about tennis and the players, including and not limited to:
   
