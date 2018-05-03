@@ -12,11 +12,8 @@ Below is an example of the data from Miami Open 2018 underway now:
 Records by Roger Federer, Serena Williams and other prominent players are well known and some data analytics (such as Maximum aces in a year) gathered by SAP and IBM are available on the official sites. We would try to provide further insights about tennis and the players, including and not limited to:
   
   • Which Player is the best at defending their title?
-  
-  • Best Players in Doubles Categories, Mixed Doubles Category
-  
+    
   • Top Players (based on Rankings, Prize money, Non-Grand Slam Tournament winners) without having won Grand Slams
   
   • Top Players (based on Grand Slam Winners, Prize money, Non-Grand Slam Tournament winners) not ranked Number #1.
   
-  • Does any external factor affect tie-breaker requirements, player output or low-ranked players’ participation?
