@@ -17,6 +17,5 @@ Records by Roger Federer, Serena Williams and other prominent players are well k
   - **Players becoming No #1** : based on Grand Slam Winners, Prize money, Non-Grand Slam Tournament winners
   
   #### <i class="icon-file"></i> Project Report Link
-  You can open the project report from <i class="icon-provider-gdrive"></i> **Google Drive** by clicking [here!]
-  (https://docs.google.com/document/d/133fJpOPik114ONDpLt2hG0iVQyUUUF3Y6ng2AMzvtN8)
+  You can open the project report from <i class="icon-provider-gdrive"></i> **Google Drive** by clicking <a href="https://drive.google.com/open?id=133fJpOPik114ONDpLt2hG0iVQyUUUF3Y6ng2AMzvtN8">here! </a>
   
